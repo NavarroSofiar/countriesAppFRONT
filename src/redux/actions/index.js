@@ -11,7 +11,6 @@ export const FILTER_ACTIVITY="FILTER_BY_ACTIVITy"
 
 
 
-
 export function getAllCountries(){
      return async function(dispatch)  {
       try {
